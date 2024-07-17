@@ -8,7 +8,7 @@ Es una herramienta para detectar vulnerabilidades de Cross-Site Scripting (XSS) 
 git clone https://github.com/tu_usuario/XSS_Probe.git
 2. cd Xss_Probe
 3. pip install -r requirements.txt
-4. python xss_probe.py
+4. python xssprobe.py
 
 Ingresa la URL base cuando se te solicite (ejemplo: https://www.ejemplo.com/prueba.php?param=).
 
