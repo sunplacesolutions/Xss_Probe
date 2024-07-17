@@ -1,4 +1,4 @@
-![XSS_Probe Logo](Xss_Probe/xssprobe.webp)
+![XSS_Probe Logo](xssprobe.webp)
 ## Descripción
 ## XSS_Probe V1.0: 
 Es una herramienta para detectar vulnerabilidades de Cross-Site Scripting (XSS) en aplicaciones web. Permite probar múltiples payloads de XSS contra una URL base y reportar las URLs vulnerables.
